@@ -7,10 +7,10 @@ Elastic es un SIEM que se compone de varios servicios en este caso vamos a insta
 # índice de la guía
 
 
-## - Instalación de ElasticSearch
-## - Instalación de Kibana
-  ### - Instalación de Kibana por HTTP
-  ### - Instalación de Kibana por HTTPS
-## - Logstash HTTPS
-## - Fleet - Elastic-Agent
-## - Metricbeat
+- Instalación de ElasticSearch
+- Instalación de Kibana
+    - Instalación de Kibana por HTTP
+    - Instalación de Kibana por HTTPS
+    - Logstash HTTPS
+ - Fleet - Elastic-Agent
+ - Metricbeat
